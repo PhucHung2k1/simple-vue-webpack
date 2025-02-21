@@ -19,7 +19,7 @@ const handleDes = () => count.value--
 
 <style scoped lang="less">
 .app {
-  background-color: yellow;
+  background-color: blue;
   h1 {
     color: red;
   }
